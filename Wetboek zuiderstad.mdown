@@ -6,7 +6,7 @@
 |---|---|
 | Overheidsorganisatie      | Hoge Raad Zuiderstad |
 | Officiële naam            | Algemeen Wetboek Zuiderstad |
-| Citeertitel               | Wetboek Tedeapolis |
+| Citeertitel               | Wetboek Zuiderstad |
 | Vastgesteld door          | De Hoge Raad en Korpsleiding|
 | Onderwerp                 | Openbare orde en veiligheid |
 
