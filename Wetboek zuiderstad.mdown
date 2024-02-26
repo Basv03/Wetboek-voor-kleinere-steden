@@ -78,7 +78,7 @@
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 15 uur  | €2500,-  |
-| **Tweede Veroordeling**  | 25 uur  |  | €3500,-  |
+| **Tweede Veroordeling**  |   | 25 uur | €3500,-  |
 | **Meerdere Veroordelingen**  | 15 maanden  |   | €5000,-  |
 
 ### Artikel I-2 Diefstal met geweld / Overval (312 SR)
@@ -112,7 +112,7 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 3000,-  |
+|  **Eerste Veroordeling** |  | 20 uur  | € 3000,-  |
 | **Tweede Veroordeling**  | 15 maanden  |   | € 4500,-  |
 | **Meerdere Veroordelingen**  | 25 maanden  |   | € 5500,-  |
 
@@ -350,7 +350,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | 20 uur  |  | € 4000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 20 uur | € 4000,-  | 0-24 uur |
 | **Tweede Veroordeling**  | 10 maanden  |  | € 5000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  | 15 maanden  |  | € 6000,-  | 0-24 uur |
 
@@ -363,7 +363,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | 20 uur |  | € 3000,-  | 12-24 uur |
+|  **Eerste Veroordeling** |  | 20 uur | € 3000,-  | 12-24 uur |
 | **Tweede Veroordeling**  | 10 maanden  |  | € 4000,-  | 24-48 uur |
 | **Meerdere Veroordelingen**  | 15 maanden  |  | € 5000,-  | 72 uur |
 
