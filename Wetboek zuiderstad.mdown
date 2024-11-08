@@ -45,7 +45,7 @@
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
 6. Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf.
-7.1 maand gevangenisstraf staat gelijk aan 1 minuut in de gevangenis.
+7. 1 maand gevangenisstraf staat gelijk aan 1 minuut in de gevangenis.
 8. Er geldt een maximumcelstraf van 90 maanden.
 9. Te allen tijde geldt er een maximum aantal taakstraffen van 100 taken. 
 10. Wanneer je taken en celstraf zou krijgen wordt dit veranderd naar alleen een celstraf. Per 5 taken is het 1 maand extra gevangenis straf.
